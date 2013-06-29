@@ -1,0 +1,11 @@
+[user]
+	name = Hyungjoon Lee
+	email = hyungjoon.lee@lge.com
+[alias]
+	l = log -n 20 --all --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[diff]
+	tool = vimdiff
