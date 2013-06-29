@@ -1,0 +1,4 @@
+configurations
+==============
+
+terminal configurations
